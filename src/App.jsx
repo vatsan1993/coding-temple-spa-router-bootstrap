@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import HomePage from "./assets/components/HomePage";
-import NavBar from "./assets/components/NavBar";
-import NotFound from "./assets/components/NotFound";
-import Users from "./assets/components/Users";
-import UserTodos from "./assets/components/UserTodos";
+import HomePage from "./components/HomePage";
+import NavBar from "./components/NavBar";
+import NotFound from "./components/NotFound";
+import Users from "./components/Users";
+import UserTodos from "./components/UserTodos";
 
 function App() {
   return (
